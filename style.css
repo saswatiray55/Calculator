@@ -10,7 +10,7 @@
 
 .container{
     width: 100%;
-    height: fit-content;
+    height: 100vw;
     background-color: #508181;
     display: flex;
     align-items: center;
